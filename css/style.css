@@ -33,12 +33,12 @@
     width: 100%;
 }
 
-.text-banner{
-    height: 500px;
+.text-banner,
+.img-box{
+    height: 1000px;
 }
 
 .img-box{
-    height: 500px;
     width: 100%;
     background-color: cornflowerblue;
 }
