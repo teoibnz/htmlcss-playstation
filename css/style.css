@@ -26,6 +26,7 @@
     width: calc(288px - 0.5rem);
     background-color: brown;
     border: 1px solid black;
+    margin-bottom: 1rem;
 }
 
 .card-container{
