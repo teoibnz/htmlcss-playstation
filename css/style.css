@@ -36,3 +36,9 @@
 .text-banner{
     height: 500px;
 }
+
+.img-box{
+    height: 500px;
+    width: 100%;
+    background-color: cornflowerblue;
+}
