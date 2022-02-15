@@ -1,2 +1,13 @@
 /* custom css */
 
+.top-header{
+    background-color: black;
+    height: 30px;
+    text-align: right;
+}
+
+.my-logo-img{
+    height: 100%;
+    width: 100px;
+}
+
