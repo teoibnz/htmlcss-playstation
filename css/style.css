@@ -33,7 +33,6 @@
 .my-card-item{
     height: 150px;
     width: calc(288px - 0.5rem);
-    background-color: brown;
     border: 1px solid black;
     margin-bottom: 1rem;
 }
@@ -42,8 +41,7 @@
     width: 100%;
 }
 
-.text-banner,
-.img-box{
+.text-banner{
     height: 1000px;
 }
 
