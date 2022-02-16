@@ -21,7 +21,9 @@
 }
 
 .my-second-jumbotron{
-
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -33,8 +35,11 @@
 .my-card-item{
     height: 150px;
     width: calc(288px - 0.5rem);
-    border: 1px solid black;
     margin-bottom: 1rem;
+}
+
+.my-card-item img{
+    height: 100%;
 }
 
 .card-container{
@@ -48,4 +53,9 @@
 .img-box{
     width: 100%;
     background-color: cornflowerblue;
+}
+
+#my-it-takes{
+    height: 200px;
+    
 }
