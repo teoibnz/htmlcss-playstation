@@ -11,10 +11,19 @@
     width: 100px;
 }
 
-.my-jumbotron{
-    height: 500px;
-    background-color: grey;
+.my-jumbo{
+    height: 800px;
 }
+.my-first-jumbotron{
+    background-image: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.my-second-jumbotron{
+
+}
+
 
 .jumbo-text{
     width: 100%;
