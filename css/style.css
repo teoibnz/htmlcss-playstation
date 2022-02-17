@@ -1,5 +1,9 @@
 /* custom css */
 
+
+main{
+    min-width: 572px;
+}
 .top-header{
     background-color: black;
     height: 30px;
@@ -75,12 +79,16 @@
 
 .my-ps-now-bg{
     background-color: #161c3b;
-
 }
 
-/* .my-social-section{
-    height: 200px;
-    width: 480px;
-} */
+footer{
+    background-color: #0070d1;
+}
 
+.my-footer-logo{
+    width: 150px;
+}
 
+footer li{
+    list-style-type: none;
+}
