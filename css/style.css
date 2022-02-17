@@ -65,7 +65,7 @@
 }
 
 .my-ps-plus-bg{
-    background-color: grey;
+    background-color: #bebcbb;
 
 }
 
@@ -73,5 +73,9 @@
     width: 100%;
 }
 
+.my-ps-now-bg{
+    background-color: #161c3b;
+
+}
 
 
